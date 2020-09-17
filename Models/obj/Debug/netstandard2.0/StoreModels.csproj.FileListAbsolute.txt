@@ -1,0 +1,9 @@
+C:\Users\tamik\source\repos\Ado_Net_Ex_1\Models\bin\Debug\netstandard2.0\StoreModels.deps.json
+C:\Users\tamik\source\repos\Ado_Net_Ex_1\Models\bin\Debug\netstandard2.0\StoreModels.dll
+C:\Users\tamik\source\repos\Ado_Net_Ex_1\Models\bin\Debug\netstandard2.0\StoreModels.pdb
+C:\Users\tamik\source\repos\Ado_Net_Ex_1\Models\obj\Debug\netstandard2.0\StoreModels.AssemblyInfoInputs.cache
+C:\Users\tamik\source\repos\Ado_Net_Ex_1\Models\obj\Debug\netstandard2.0\StoreModels.AssemblyInfo.cs
+C:\Users\tamik\source\repos\Ado_Net_Ex_1\Models\obj\Debug\netstandard2.0\StoreModels.dll
+C:\Users\tamik\source\repos\Ado_Net_Ex_1\Models\obj\Debug\netstandard2.0\StoreModels.pdb
+C:\Users\tamik\source\repos\Ado_Net_Ex_1\Models\obj\Debug\netstandard2.0\StoreModels.csprojAssemblyReference.cache
+C:\Users\tamik\source\repos\Ado_Net_Ex_1\Models\obj\Debug\netstandard2.0\StoreModels.csproj.CoreCompileInputs.cache

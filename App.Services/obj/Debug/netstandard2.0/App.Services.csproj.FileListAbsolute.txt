@@ -1,0 +1,2 @@
+C:\Users\tamik\source\repos\Ado_Net_Ex_1\App.Services\obj\Debug\netstandard2.0\App.Services.AssemblyInfoInputs.cache
+C:\Users\tamik\source\repos\Ado_Net_Ex_1\App.Services\obj\Debug\netstandard2.0\App.Services.AssemblyInfo.cs
